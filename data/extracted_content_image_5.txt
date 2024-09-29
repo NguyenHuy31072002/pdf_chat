@@ -1,0 +1,19 @@
+Đầu tiên, chúng ta cần phân biệt được hình ảnh mà bạn yêu cầu trích xuất văn bản là hình ảnh văn bản hay hình ảnh đồ họa. Hình ảnh văn bản là hình ảnh mà trong đó có chứa văn bản, ví dụ như hình ảnh sách, báo, tài liệu,... Hình ảnh đồ họa là hình ảnh mà trong đó không chứa văn bản, ví dụ như hình ảnh động vật, con người, cảnh quan, đồ vật,...
+
+Nếu hình ảnh mà bạn yêu cầu trích xuất văn bản là hình ảnh văn bản, chúng ta có thể sử dụng các công cụ trích xuất văn bản từ hình ảnh như Optical Character Recognition (OCR) để trích xuất văn bản từ hình ảnh. OCR là một công nghệ cho phép máy tính nhận dạng và trích xuất văn bản từ hình ảnh.
+
+Nếu hình ảnh mà bạn yêu cầu trích xuất văn bản là hình ảnh đồ họa, chúng ta không thể trích xuất văn bản từ hình ảnh vì hình ảnh đồ họa không chứa văn bản.
+
+Vậy, để trả lời câu hỏi của bạn, chúng ta cần biết hình ảnh mà bạn yêu cầu trích xuất văn bản là hình ảnh văn bản hay hình ảnh đồ họa. Nếu là hình ảnh văn bản, chúng ta có thể sử dụng OCR để trích xuất văn bản từ hình ảnh. Nếu là hình ảnh đồ họa, chúng ta không thể trích xuất văn bản từ hình ảnh.
+
+Văn bản trong hình ảnh mà bạn yêu cầu trích xuất là:
+
+Điều 8. Thủ tục thanh toán công tác phí
+
+1. CBNV đi công tác về phải làm thủ tục thanh toán tạm thời theo mẫu án định trong vòng 30 ngày (không tính thứ bảy, chủ nhật và các ngày lễ) kể từ ngày kết thúc chuyến công tác trở về Công ty. Bảo cáo thanh toán tạm thời phải kèm theo đầy đủ các chứng từ (bao gồm hóa đơn tài chính, hóa đơn bán lẻ, phiếu thu...) theo quy định pháp luật để chứng minh chi phí thực tế phát sinh trong chuyến công tác. Đối với những trường hợp không có hóa đơn chứng từ thì thanh toán theo hạn mức nêu trên và được tính vào thu nhập cá nhân trên bảng kê lương kỳ tiếp theo.
+
+2. Đối với các khoản chi đã có quy định hạn mức trong bản Quy chế này thì mức chi tối đa được định nghĩa trong phần trong phạm vi quy định.
+
+3. Đối với các khoản quy định hạn mức trong Quy chế này thì phải được sự phê duyệt của cấp thẩm quyền.
+
+4.

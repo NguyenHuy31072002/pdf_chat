@@ -1,0 +1,19 @@
+my_project/
+│
+├── app/
+│   ├── __init__.py
+│   ├── main.py         # FastAPI app
+│   ├── config.py       # Load biến môi trường
+│   ├── api/
+│   │   ├── __init__.py
+│   │   ├── endpoints.py # Các route trong FastAPI
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── ai_services.py  # Các service AI như Together và Gemini
+│   │   ├── db_services.py  # Các service về DB
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── qa_model.py  # Mô hình truy vấn QA
+│
+├── .env                # File .env chứa API keys
+├── requirements.txt    # File chứa các package yêu cầu

@@ -1,0 +1,7 @@
+Điểm 5. Hạn mức công tác phí đi lại, ăn ở và chi phí khác:
+
+STT | Nội dung | Ngàn ngày (≤ 10 ngày) | Ngày (> 10 ngày và ≤ 90 ngày) |
+1 | Chi phí đi lại (theo thực tế phát sinh cần có vé của các phương tiện giao thông). Các trường hợp không có vé sẽ được định hạng mức. | Ngạch 1,2 Mấy bay, tàu giường nằm, xe ô tô giường nằm, taxi. | Ngạch 3,4,5,6 Mấy bay (> 150 km), tàu giường nằm, xe ô tô giường nằm, taxi. |
+2 | Chi phí thuê phòng nghỉ / nhà trọ (trừ các trường hợp đặc biệt được phê duyệt bởi cấp có thẩm quyền.) | ≤ 1.200.000 VND/ ngày (Thanh toán theo thực tế phát sinh) | ≤ 800.000 VND/ ngày (Thanh toán theo thực tế phát sinh) |
+3 | Phụ cấp hưu trí | 500.000 VND/ ngày | 250.000 VND/ ngày |
+4 | Chi phí khác | Theo thực tế phát sinh và được phê duyệt bởi cấp có thẩm quyền. | Theo thực tế phát sinh và được phê duyệt bởi cấp có thẩm quyền. |
